@@ -26,7 +26,6 @@ class _HomePageState extends State<HomePage> {
         MediaQuery.of(context).size.width;
 
     return Scaffold(
-
       appBar: PreferredSize(
           child: SafeArea(
             child: Padding(
