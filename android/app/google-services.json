@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94329321633",
+    "firebase_url": "https://bahriaplus-mainpage.firebaseio.com",
+    "project_id": "bahriaplus-mainpage",
+    "storage_bucket": "bahriaplus-mainpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94329321633:android:ead6b6c03c7264910358e0",
+        "android_client_info": {
+          "package_name": "com.example.bahriaplus_mainpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94329321633-qu2rb3a0frjbj5ginsfoibv90u93o9kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG59dHsczNXB5bytumYOOocyUymtcKxMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94329321633-qu2rb3a0frjbj5ginsfoibv90u93o9kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
